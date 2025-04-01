@@ -1,0 +1,2 @@
+App:
+- Initial Release (Refactored from saikou -> kuu)
