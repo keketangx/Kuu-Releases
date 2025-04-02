@@ -1,2 +1,5 @@
-App:
-- Initial Release (Refactored from saikou -> kuu)
+-Source-
+-> Added Animenosub
+
+-Codebase-
+-> Created individual packages for each sources.
