@@ -1,5 +1,6 @@
--Source-
--> Added Animenosub
+-App-
+-> Fix AppUpdater to install the downloaded apk within the app and not something like Package Manager (Starting from this ver 1.0.2)
+-> When updating, after clicking let's go, wait for the install to show up.
 
--Codebase-
--> Created individual packages for each sources.
+-Source-
+-> Fix AK
