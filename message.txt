@@ -1,6 +1,8 @@
--App-
--> Fix AppUpdater to install the downloaded apk within the app and not something like Package Manager (Starting from this ver 1.0.2)
--> When updating, after clicking let's go, wait for the install to show up.
+-App (Mobile)-
+-> Add this kkx on dev
+
+-App (TV)-
+-> Add version on Home
 
 -Source-
 -> Fix AK
