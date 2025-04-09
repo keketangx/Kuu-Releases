@@ -1,8 +1,3 @@
--App (Mobile)-
--> Add this kkx on dev
-
--App (TV)-
--> Add version on Home
-
--Source-
--> Fix AK
+-Sources-
+-> Fixed AK
+-> Automated key parse for AK
