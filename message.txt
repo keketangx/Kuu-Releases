@@ -1,15 +1,4 @@
--App-
--> New Icon
-
--TV-
--> Changed how TV fetches Continue Watching. Separated CURRENT and REPEATING
--> Since REPEATING is now standalone, added "Rewatching" row in TV Home (Under Continue Watching)
--> Note: If user doesn't have REPEATING/REWATCHING status, This row will not appear
-
--Sources(Manga)-
--> Fixed AllAnime (AllManga)
-
--> Removed Mangakakalot (temp?)
--> Manga4Life (Dead) --> Moved to WeebCentral
-
--> Added WeebCentral
+-Sources-
+-> Fixed AK
+-> Updated Hostname for AllAnime and Animenosub
+-> Added Filemoon for AllAnime
