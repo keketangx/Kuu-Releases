@@ -1,4 +1,2 @@
 -Sources-
--> Fixed AK
--> Updated Hostname for AllAnime and Animenosub
--> Added Filemoon for AllAnime
+-> Fixed AK (This will be broken again in a week xdx)
