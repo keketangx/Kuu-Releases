@@ -1,2 +1,6 @@
+-App-
+-> old apk updates will now be automatically deleted (I think?)
+
 -Sources-
--> Fixed AK (This will be broken again in a week xdx)
+-> AnimePahe: If source uses PADORU, It will now also show the M3U8 counterpart (Might also do the same for KWIK)
+-> AnimePahe: Added note if source uses PADORU or KWIK
