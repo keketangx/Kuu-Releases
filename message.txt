@@ -1,4 +1,4 @@
 
 -Source-
--> Fixed AnimeOwl
--> Minor changes on AnimePahe
+-> Kinda fixed AK, but got broken again xd
+-> Fixed AllAnime server link issue.
