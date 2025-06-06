@@ -1,4 +1,7 @@
 
+-App-
+-> Changed icon. Featuring: Lily
+-> Changed Splashscreen and how it works.
+
 -Source-
--> Kinda fixed AK, but got broken again xd
--> Fixed AllAnime server link issue.
+-> Fixed AK using API. creds to phs & amr
