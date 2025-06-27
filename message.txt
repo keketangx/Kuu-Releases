@@ -1,7 +1,10 @@
 
+-App-
+-> Added scroll on update changelogs since it was being truncated (starts on 1.1.4)
 -TV-
 -> Changed loading design on fragments
-
+-> Added current season in HOME but removed trending as they are a bit same. Difference is trending is constant to WINTER
+-> Re-arranged HOME row
 -Sources-
 -> Revived A-Z (AK Clone)
 -> Added GJ (Currently working server: STRX)
