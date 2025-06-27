@@ -1,7 +1,7 @@
 
--App-
--> Changed icon. Featuring: Lily
--> Changed Splashscreen and how it works.
+-TV-
+-> Changed loading design on fragments
 
--Source-
--> Fixed AK using API. creds to phs & amr
+-Sources-
+-> Revived A-Z (AK Clone)
+-> Added GJ (Currently working server: STRX)
