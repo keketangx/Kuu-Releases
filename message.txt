@@ -1,45 +1,9 @@
 
--App-
--> Changed Splashscreen
--> Changed Icon. Featuring: Kirara :>
-
 -TV-
--> NEW UI LAYOUT(BETA)
--> Added Sidebar
--> New Layout when searching.
--> Added Layout for Genres as it was now separated at Home
--> New Layout for Home
--> New Layout for Login
--> Added "Confirm Exit" when exiting
+-> Fixed cards rubberbanding in HOME
+-> Fixed "Plan to Watch" not showing synopsis
+-> Fixed auto-reload home when coming back from search, genres and login.
 
--TV_CARD-
--> Added new cards specifically for TV
--> Will now show "ONGOING" if anime is still AIRING
--> Moved rating on UPPER-LEFT corner
--> Progress is now inside of the image at LOWER_LEFT corner
--> Progress is now formatted as X/Yor X/Y/Z if ONGOING
-
--TV_SEARCH-
--> Will now use new cards specifically for TV
--> Already aware on FILTER button not working. working on this.
-
--TV_GENRES-
--> Separated this on Home.
--> Will still use "SEARCH" on select genre
-
--TV_HOME-
--> Now has a banner. This contains: Title and Synopsis
--> Will now use new cards specifically for TV
--> Still has the same sections and arrangement (UP/DOWN to change sections)
--> Now loads async
--> Hopefully still reloads the fragment when gone back here xd.
-
--TV_Login-
--> Added dev info below
--> Login thru Phone (Not tested yet but this should be working)
--> Login thru Browser (Tested: Working)
--> Upon Login, Will still show the icon.
--> Upon Login, Will now show EPISODE WATCHED
-
--Maintainer notes-
--> Please report encountered bugs. TY
+-Plans-
+-> Optimize Home (Includes: Initial load, Reload)
+-> Fix filter button on search
