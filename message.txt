@@ -1,9 +1,12 @@
 
--TV-
--> Fixed cards rubberbanding in HOME
--> Fixed "Plan to Watch" not showing synopsis
--> Fixed auto-reload home when coming back from search, genres and login.
+-App-
+-> Added WVR
 
--Plans-
--> Optimize Home (Includes: Initial load, Reload)
--> Fix filter button on search
+-TV-
+-> Hopefully fixed TV sidebar icon colors
+-> Fixed multiple loading in HOME due to onResume
+-> Fixed Search Navigation
+-> Added Search Filter. (Makes "GENRES" kinda useless but not really since it shows across seasons/year)
+
+-Source-
+-> Fixed AK
