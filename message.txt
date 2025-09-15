@@ -1,12 +1,9 @@
 
--App-
--> Added WVR
-
 -TV-
--> Hopefully fixed TV sidebar icon colors
--> Fixed multiple loading in HOME due to onResume
--> Fixed Search Navigation
--> Added Search Filter. (Makes "GENRES" kinda useless but not really since it shows across seasons/year)
+- Fixed searching while still typing focuses on the first item when it shows results.
+- Fixed Search (Navigation)
+- If totalEpisode is null, it will now still show the user progress. it will be shown as (userprogress/currentepisodes/~) or (currentepisodes/~)
+- Fixed Home multiple refreshes when loading data. (currently tested on low count data. needs to test on high count data ~100)
 
 -Source-
--> Fixed AK
+-> Fixed AK (ty phsh)
