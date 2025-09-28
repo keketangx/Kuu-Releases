@@ -1,3 +1,7 @@
 
 -Source-
--> Fixed AK
+Note: A non-required update. Just fixed because AK uses NETFLIX ver and NETFLIX sub is shit af.
+-> Fixed AnimePahe
+-> Fixed Gojo (meg only)
+-> Disabled Animenosub
+-> Disabled Animeowl
