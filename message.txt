@@ -1,3 +1,9 @@
 
--Source-
--> Updated AK Domain.
+FRIENDS EDITION
+
+-App-
+-> Changed Splashscreen
+-> Changed Icon. Featuring: Mirai :>
+
+-TV-
+-> Added next EP countdown if show is not yet finished (requested by wapafeed)
