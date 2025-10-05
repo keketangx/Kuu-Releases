@@ -1,9 +1,10 @@
 
-FRIENDS EDITION
-
 -App-
--> Changed Splashscreen
--> Changed Icon. Featuring: Mirai :>
+-> Removed added time on next EP countdown (2 hours, 46 minutes, and 40 seconds/10,000 epoch time)
 
 -TV-
--> Added next EP countdown if show is not yet finished (requested by wapafeed)
+-> Added mimetypes on TV player
+
+-Source-
+-> Fixed AK
+-> Fixed GJ (pahe, zaza, bato, zoro (raw), meg)
