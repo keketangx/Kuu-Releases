@@ -1,10 +1,10 @@
 
--App-
--> Removed added time on next EP countdown (2 hours, 46 minutes, and 40 seconds/10,000 epoch time)
-
 -TV-
--> Added mimetypes on TV player
+-> Added "--" as null value in search filter
+-> Added "User Status" (when logged in) in anime detail (shown as: SOURCE -> SUB/DUB(If available) -> STATUS(If logged in) -> WRONG TITLE -> INFORMATION)
+-> Removed "<3" since it also affects "Not Yet Released" on anime detail status
 
 -Source-
 -> Fixed AK
--> Fixed GJ (pahe, zaza, bato, zoro (raw), meg)
+-> Fixed GJ
+-> Fixed AllAnm (for mobile since it crashes on video load)
