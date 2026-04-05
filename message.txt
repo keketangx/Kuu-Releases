@@ -1,26 +1,2 @@
 
-RAKI(LUCKY) EDITION
-
--App-
--> API PARSERS (More info on -API Parsers-)
--> Changed Icon. Featuring: Raki :>
--> Changed Splashscreen.
-
--API Parsers-
--> Still rely on some static parser but is controlled by API
--> Currently only AK, AA, AZ are migrated but since AA, AZ isn't frequently broken it was disabled and will still use the static for now.
--> Added EmptySource (as fallback)
--> Added Yt-Mp4 on AA
-
--TV-
--> Added new sidebar button for -API Parsers-
--> Changed navigation behavior on HOME. (Will now retain the position on the left when scrolling)
--> Search will now continuously load next pages when reach certain threshold (old: only 50 items are loaded)
--> Search: "hntai" (Filter and Genres) will now show it :>
--> Genres now has a background image
-
--Mobile-
--> Added new screen for -API Parsers-
-(This is located in: Settings->Common->Parsers)
-
-burnout.
+SKIP THIS UPDATE.
