@@ -1,2 +1,3 @@
 
-SKIP THIS UPDATE
+- Temporary fix AA. Most of AA source will not work if came from API -> Local so fixing this locally.
+- currently migrating cb so AA and AP(broken on seek) will only be the available source since AK died? Will add sources after migrating cb...
