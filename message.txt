@@ -1,3 +1,5 @@
-
-- Temporary fix AA. Most of AA source will not work if came from API -> Local so fixing this locally.
-- currently migrating cb so AA and AP(broken on seek) will only be the available source since AK died? Will add sources after migrating cb...
+=====DO NOT UPDATE ON PHONE YET=====
+- Fully migrated to another Codebase.
+- Premature release since spring 2026 ended.
+- Currently only have 1 source (APahe).
+- Phone linking works even using this old app. (to easily login thru Alist).
